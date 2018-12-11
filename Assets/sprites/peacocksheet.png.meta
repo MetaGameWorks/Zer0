@@ -1,0 +1,1517 @@
+fileFormatVersion: 2
+guid: 1970f9efa2bace14c846ecaf37db14df
+timeCreated: 1542607245
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: peacocksheet_0
+    21300002: peacocksheet_1
+    21300004: peacocksheet_2
+    21300006: peacocksheet_3
+    21300008: peacocksheet_4
+    21300010: peacocksheet_5
+    21300012: peacocksheet_6
+    21300014: peacocksheet_7
+    21300016: peacocksheet_8
+    21300018: peacocksheet_9
+    21300020: peacocksheet_10
+    21300022: peacocksheet_11
+    21300024: peacocksheet_12
+    21300026: peacocksheet_13
+    21300028: peacocksheet_14
+    21300030: peacocksheet_15
+    21300032: peacocksheet_16
+    21300034: peacocksheet_17
+    21300036: peacocksheet_18
+    21300038: peacocksheet_19
+    21300040: peacocksheet_20
+    21300042: peacocksheet_21
+    21300044: peacocksheet_22
+    21300046: peacocksheet_23
+    21300048: peacocksheet_24
+    21300050: peacocksheet_25
+    21300052: peacocksheet_26
+    21300054: peacocksheet_27
+    21300056: peacocksheet_28
+    21300058: peacocksheet_29
+    21300060: peacocksheet_30
+    21300062: peacocksheet_31
+    21300064: peacocksheet_32
+    21300066: peacocksheet_33
+    21300068: peacocksheet_34
+    21300070: peacocksheet_35
+    21300072: peacocksheet_36
+    21300074: peacocksheet_37
+    21300076: peacocksheet_38
+    21300078: peacocksheet_39
+    21300080: peacocksheet_40
+    21300082: peacocksheet_41
+    21300084: peacocksheet_42
+    21300086: peacocksheet_43
+    21300088: peacocksheet_44
+    21300090: peacocksheet_45
+    21300092: peacocksheet_46
+    21300094: peacocksheet_47
+    21300096: peacocksheet_48
+    21300098: peacocksheet_49
+    21300100: peacocksheet_50
+    21300102: peacocksheet_51
+    21300104: peacocksheet_52
+    21300106: peacocksheet_53
+    21300108: peacocksheet_54
+    21300110: peacocksheet_55
+    21300112: peacocksheet_56
+    21300114: peacocksheet_57
+    21300116: peacocksheet_58
+    21300118: peacocksheet_59
+    21300120: peacocksheet_60
+    21300122: peacocksheet_61
+    21300124: peacocksheet_62
+    21300126: peacocksheet_63
+    21300128: peacocksheet_64
+    21300130: peacocksheet_65
+    21300132: peacocksheet_66
+    21300134: peacocksheet_67
+    21300136: peacocksheet_68
+    21300138: peacocksheet_69
+    21300140: peacocksheet_70
+    21300142: peacocksheet_71
+    21300144: peacocksheet_72
+    21300146: peacocksheet_73
+    21300148: peacocksheet_74
+    21300150: peacocksheet_75
+    21300152: peacocksheet_76
+    21300154: peacocksheet_77
+    21300156: peacocksheet_78
+    21300158: peacocksheet_79
+    21300160: peacocksheet_80
+    21300162: peacocksheet_81
+    21300164: peacocksheet_82
+    21300166: peacocksheet_83
+    21300168: peacocksheet_84
+    21300170: peacocksheet_85
+    21300172: peacocksheet_86
+    21300174: peacocksheet_87
+    21300176: peacocksheet_88
+    21300178: peacocksheet_89
+    21300180: peacocksheet_90
+    21300182: peacocksheet_91
+    21300184: peacocksheet_92
+    21300186: peacocksheet_93
+    21300188: peacocksheet_94
+    21300190: peacocksheet_95
+    21300192: peacocksheet_96
+    21300194: peacocksheet_97
+    21300196: peacocksheet_98
+    21300198: peacocksheet_99
+    21300200: peacocksheet_100
+    21300202: peacocksheet_101
+    21300204: peacocksheet_102
+    21300206: peacocksheet_103
+    21300208: peacocksheet_104
+    21300210: peacocksheet_105
+    21300212: peacocksheet_106
+    21300214: peacocksheet_107
+    21300216: peacocksheet_108
+    21300218: peacocksheet_109
+    21300220: peacocksheet_110
+    21300222: damaged_00
+    21300224: damaged_01
+    21300226: peacocksheet_113
+    21300228: damaged_02
+    21300230: damaged_08
+    21300232: damaged_10
+    21300234: peacocksheet_117
+    21300236: damaged_03
+    21300238: damaged_09
+    21300240: peacocksheet_120
+    21300242: damaged_04
+    21300244: peacocksheet_122
+    21300246: damaged_05
+    21300248: peacocksheet_124
+    21300250: damaged_06
+    21300252: damaged_07
+    21300254: damaged_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peacocksheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1606
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1606
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1606
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1606
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1606
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1606
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_12
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1606
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1606
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1515
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1515
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1515
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1515
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_28
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1515
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1515
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_30
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1515
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_31
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1515
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1404
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1404
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1404
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_35
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1404
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1404
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_37
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1404
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_38
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1396
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1263
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1263
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1263
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_42
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1263
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_43
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1263
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1134
+        width: 126
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1134
+        width: 126
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1146
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1150
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_48
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1161
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_49
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1150
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_50
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1149
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1149
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_52
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1030
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1028
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_54
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1030
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_55
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1030
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1030
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1029
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_58
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1028
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_59
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1028
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 924
+        width: 111
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 923
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 923
+        width: 108
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_63
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 923
+        width: 108
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 923
+        width: 150
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 785
+        width: 222
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_66
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 785
+        width: 222
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_67
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 785
+        width: 222
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 648
+        width: 222
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_79
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 648
+        width: 222
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_82
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 648
+        width: 222
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 537
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 534
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_91
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 537
+        width: 71
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_92
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 536
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_93
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 536
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_94
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 533
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_95
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 533
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_96
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 532
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_97
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 422
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_98
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 422
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_99
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 431
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_100
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 431
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_101
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 431
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_102
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 431
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_103
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 431
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_104
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 320
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_105
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 320
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_106
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 320
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_107
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 320
+        width: 102
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_108
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 320
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_109
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 320
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_110
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 217
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_00
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 113
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_01
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 114
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_113
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 217
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_02
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 115
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_08
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 12
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_10
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 12
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_117
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 217
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_03
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 116
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_09
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 12
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_04
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 116
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_122
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 217
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_05
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 116
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peacocksheet_124
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 217
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_06
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 116
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_07
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: damaged_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 14
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
