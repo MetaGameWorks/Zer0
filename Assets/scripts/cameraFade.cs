@@ -5,11 +5,11 @@ using UnityEngine;
 public class cameraFade : MonoBehaviour
 {
     public Texture2D fadeTexture;   // the texture that will overlay the screen to black it out
-    public float fadeSpeed = .25f;  // the speed at which the screen will fade in and out
+    public float fadeSpeed = 1f;  // the speed at which the screen will fade in and out
 
     int drawnDepth = -1000;         // the layer at which the fade texture will redner, this will ensure that it's on top
     float alpha = 1f;               // the opacity oi the fade texture between the numbers 0 and 1
-    int fadeDir = -1;               // the direction to fade: in = -1 or out = 1
+    int fadeDir = 1;               // the direction to fade: in = -1 or out = 1
 
     void OnGUI()
     {
@@ -30,15 +30,23 @@ public class cameraFade : MonoBehaviour
     }
 
     // fades in the moment the level was loaded
-    void Awake()
+    void Start()
     {
-        Debug.Log("here");
         BeginFade(-1);
+        StartCoroutine(FadeOut());
     }
 
     private void Update()
     {
         // set fade out after a few seconds
 
+    }
+
+    IEnumerator FadeOut()
+    {
+        yield return new WaitForSeconds(4f);
+        BeginFade(1);
+        yield return new WaitForSeconds(1f);
+        // load next level here
     }
 }

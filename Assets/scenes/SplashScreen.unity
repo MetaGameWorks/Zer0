@@ -203,7 +203,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fadeTexture: {fileID: 2800000, guid: f96165ad8a5af6446a0b345897fa1c1f, type: 3}
-  fadeSpeed: 0.25
+  fadeSpeed: 1
 --- !u!1 &874449668
 GameObject:
   m_ObjectHideFlags: 0
