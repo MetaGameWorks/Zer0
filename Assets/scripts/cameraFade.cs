@@ -39,7 +39,7 @@ public class cameraFade : MonoBehaviour
 
     IEnumerator FadeOut()
     {
-        yield return new WaitForSeconds(3f);
+        yield return new WaitForSeconds(2f);
         BeginFade(1);
         yield return new WaitForSeconds(1f);
         SceneManager.LoadScene("level1");
